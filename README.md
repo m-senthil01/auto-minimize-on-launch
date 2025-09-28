@@ -48,7 +48,7 @@ In future versions, a settings UI may be added for easier control.
 
 ## 📷 Screenshot
 
-> *(Optional: Add a screenshot here of the mod in action or Windhawk mod page)*
+> 
 
 ---
 
